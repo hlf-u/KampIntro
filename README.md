@@ -1,2 +1,2 @@
 # KampIntro
-kodlama.io yazılım geliştirci yetiştirme kampı giriş projeler
+kodlama.io yazılım geliştirici yetiştirme kampı giriş projeleri
